@@ -2,7 +2,7 @@
 
 Here are the steps to setup a Windows desktop running  (local VSCode) and connecting SSH to a remote Ubuntu server for software development.
 
-## Pre-requisite 
+## Pre-requisites
 
 - A remote Ubuntu server
 - A local Windows desktop with VS Code installed
