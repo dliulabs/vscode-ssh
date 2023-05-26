@@ -8,7 +8,7 @@ Here are the steps to setup a Windows desktop running  (local VSCode) and connec
 - A local Windows desktop with VS Code installed
 - Set up key authentication for SSH
 
-# Edit 
+# Edit VS Remote-SSH Settings 
 
 ## Export your SSH key to SSH-1 (RSA format)
 
